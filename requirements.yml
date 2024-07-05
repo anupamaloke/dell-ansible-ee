@@ -1,0 +1,10 @@
+---
+collections:
+   - name: dellemc.openmanage
+   - name: dellemc.powerscale
+   - name: dellemc.powermax
+   - name: dellemc.powerflex
+   - name: dellemc.unity
+   - name: dellemc.powerstore
+   - name: ansible.utils
+   - name: ansible.windows
