@@ -12,6 +12,11 @@ dependencies:
    galaxy: requirements.yml
    python: requirements.txt
    system: bindep.txt
+   ### Uncomment the below lines to build the EE with PyU4V 9.2.x
+   ### By default, the latest PyU4V is always installed
+   #exclude:
+     #python:
+       #- PyU4V>=10.0
 
 images:
    base_image:
